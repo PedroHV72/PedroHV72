@@ -1,7 +1,6 @@
 ### Opa! Eu sou o Pedro Vasconcelos 👋
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHV72&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHV72&layout=compact)](https://github.com/PedroHV72/github-readme-stats)
 
 
 ## Tecnologias presentes nos meus repositórios
