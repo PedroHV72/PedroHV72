@@ -1,4 +1,4 @@
-### Opa! Eu sou o Pedro Vasconcelos 👋
+### Hi! 👋
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHV72&show_icons=true&theme=dark)
 
