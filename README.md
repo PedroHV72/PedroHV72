@@ -1,8 +1,5 @@
 ### Hi! 👋
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHV72&show_icons=true&theme=dark)
-
-
 ## Tecnologias em que eu utilizo.
 
 <div style="display: inline_block"><br />
